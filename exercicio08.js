@@ -32,3 +32,4 @@ if (imc < 18.5) {
 }
 
 alert("Seu IMC é: " + imc.toFixed(2) + "\nClassificação: " + classificacao);      
+ 
